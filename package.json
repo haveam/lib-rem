@@ -1,7 +1,7 @@
 {
   "name": "lib-rem",
   "description": "移动端适配解决方案 rem",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "moyuye",
   "license": "MIT",
   "repository": {
@@ -9,7 +9,7 @@
     "url": "git@github.com:moyuye/lib-rem.git"
   },
   "bugs": "https://github.com/moyuye/lib-rem/issues",
-  "main": "rem.js",
+  "main": "librem.min.js",
   "scripts": {
   },
   "devDependencies": {
